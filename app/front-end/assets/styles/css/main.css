@@ -1,0 +1,19 @@
+/* import package reset */
+@import url('/app/front-end/assets/styles/css/reset.css');
+
+/* import files */
+@import url('');
+
+/* to use root in all files, only import main.css in the files in the top */
+:root{
+    --create-variable-here: ': )';
+};
+
+/* mobile setting screen */
+@media only screen and (min-width: 350px) and (max-width:450px) {
+    
+};
+/* tablet setting screen */
+@media only screen and (min-width: 600px) and (max-width:800px) {
+    
+};

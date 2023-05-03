@@ -1,0 +1,14 @@
+font:
+  size: 5.5
+  normal:
+    family: Fira Code
+
+  colors:
+    primary:
+      background: '#363636'
+
+  cmder:
+    program: C:\cmder
+  
+  window:
+    startup_mode: Fullscreen

@@ -1,0 +1,6 @@
+# coments for send to git
+    # .env
+    # /database
+
+#dont send to git
+/node_modules
